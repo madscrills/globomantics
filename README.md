@@ -9,3 +9,5 @@ control testing.
 
 Thank you Nick Russo
 V1.2
+
+>Note: Version 2 will be way better
